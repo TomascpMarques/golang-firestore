@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloudcomputing-424022",
+  "private_key_id": "a81fa13f5929c646a9d083da04f45a153c1652d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2iLoS7bS+2Sob\najqaozUJXZpR6tPdVhC9dFCNNnTFfhDm81fBbwdsf/1aiHUuCzT8vnET0MlI1YaW\nFGHWPjVC953nlaStKJplwo3Fs56F7Nvp2wpSbieheQBqvrlHLz+CqIbmDNBNSrQa\n5wWeiJH9ImNDC98goAJpzabnnOKA9YtGqPqMKIBJvjSGUEroCrAcZM06+3NuciVh\nBUID2uvmvgSg2QR0mIuWOqNhg3UNS+SLvHBgi7lTlXTxMs3s+5xlNqI3wdKJCuf5\nCEYiqUsYBDkFcFbfeFmDfYuo4K+QaL8KDTxmoVaM0CiUDfQeN4fuYhponRf9A3cP\nAbV1BEsHAgMBAAECggEAK4b3OERO8aO/ksIGL5Hzt8QGZLpmw0UewM7X1pTBy8aA\nKVKl/o6HaqwqskgQCWbKv+p59Iu5NBEXAvrhScGT2eBKW0sn9dLU3qdCP37RsoYE\n+wMstvNlp+++1bWdYQg3UOT3JiywD35c7H1iradLiN2GZhqSnqkJakmMH3cd3DpJ\n28VkXak1A58cmWawrnmVhgEQ1bI80gc3zU/1YLpRrsNzVswM+OsZ/3EkvFJp+neM\niBaEOn0YCqhPQSyk59MRmkJuZDRfJ7jA33+JDOnnm5uaHVJGG8XgBRIcvyz8o4GW\nQ0f8u0PzrXsZsnzRA0gTWPeNWpMBuMGAgacuTliYAQKBgQDu2hKmRL6wJo3k/QDI\nnQlUgW42jSjBz/0R09ZzwXeyXREz8VXY7sDFjBcOjcAlo/ufNN696KRBqf+n51BD\nY1aX6Tg6qEsb1SAiET/RtIombPaARMQXmzZOoJcd4jjvRQSd1gandXWl2OP5zGLG\nMeSeRqCpjjwDerscsP+C7MAbAQKBgQDDo5LartlbCJWKbvtXv8vkCCX7JYyscDJ5\nf0u5FYJPE8elNO2VdVRquUwSaV3oZOYCHkT09UtZZQq6mitNuWleKgX+nT5whpON\nOTjRiBYG5VEd+J+cRr+F9OJWKp2ZGnllVVccIQ6deyJAxdu9jILEa8ETQDJbaL3A\nEsr2OcmOBwKBgAW9eetDBa4oDwrsxaMMmxfL0IFBHTSjMfrGs4WupZjEwdAUwbJn\n8nwM5NT1tSNycG6gD6ZSu/fUBQ/c8EHeVktqUG6gcsWldpM7BOSeSR+pSLdGb8v9\nb+2t0FPohuPBLd45MYm+uegVcU0ki08mDc979Qp+H5UZ0vtaiZl05R0BAoGANAQ8\n2pocvoCUyh7iAx3Cx1mHR7RfJ8YZFYbMCmT2pbHbpkhhVxjAHjQwTsDnMBALu8py\niTLjGtyrspulIeBHbLr9pwoF/QM7HhR1z/g/6wtzuuVNAs8owyQuPbzM9FU+q7u6\nEoeTjDmeDNzOpSJD7pe72TN7cCR0NyqH/lm1BmcCgYAaEDwmJMMrQan0SsK2ro7c\ntvCG/d3OH3rwnsgl5znrQnjL68p0ylOdJOCAiCMGhrxMT1iwB1hKfxa9D+5xc0NO\nMRqt3KgeZ5nk9IsGXuE8JDktbbYWxkT9i0P75Lu7rzpmHdyG3SoJzx6OF/B0eJOd\nkNce6J5JxVdq/z/mCqET/Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestorechat@cloudcomputing-424022.iam.gserviceaccount.com",
+  "client_id": "103457532259043347514",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestorechat%40cloudcomputing-424022.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

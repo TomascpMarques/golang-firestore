@@ -1,0 +1,11 @@
+
+gcloud init
+go run main.go
+curl -X POST http://localhost:8191/api/storage/create\?name\=new-one
+go run main.go
+curl -X POST http://localhost:8191/api/storage/create\?name\=new-one
+gcloud auth application-default login
+go run main.go
+curl -X POST http://localhost:8191/api/storage/create\?name\=new-one
+go run main.go
+curl -X POST http://localhost:8191/api/storage/create\?name\=new-one
