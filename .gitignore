@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Creds
+=======
+# Credentials
+>>>>>>> 1f37f12 (update: ignore GC credentials)
 .firebaserc
 cloudcomputing-424022-a81fa13f5929.json
 firebase.json
